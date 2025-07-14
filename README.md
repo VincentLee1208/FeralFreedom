@@ -1,6 +1,6 @@
 # Feral Freedom
 
-Feral Freedom is a 2D top-down survival game where players navigate the challenges of life as a stray animal. The game was inspired by a real-life event, [Turkey Passes ‘Massacre Law’ to Remove Stray Dogs From Streets](https://time.com/7005319/turkey-stray-dogs-massacre-law/) and was developed as a CPSC427 course project at UBC by a team of six: Selin Uz *(me)*, Vincent Lee, Shuang Qiu, Nicolas Serrano de la Paz, Cengiz Kagan Kuscu, Siri Phanichkrivalkosil.
+Feral Freedom is a 2D top-down survival game where players navigate the challenges of life as a stray animal. The game was inspired by a real-life event, [Turkey Passes ‘Massacre Law’ to Remove Stray Dogs From Streets](https://time.com/7005319/turkey-stray-dogs-massacre-law/) and was developed as a CPSC427 course project at UBC by a team of six: Vincent Lee *(me)*, Selin Uz, Shuang Qiu, Nicolas Serrano de la Paz, Cengiz Kagan Kuscu, Siri Phanichkrivalkosil.
 
 The game features pixel art animations, interactive dialogues and encounters with NPCs, AI chase logic with patrols, and resource collection to improve your stats and survive in a challenging world.
 
